@@ -6,27 +6,33 @@ It leverages structured Excel data and custom iconography to provide a clear vie
 Designed to support strategic decision-making, this dashboard is an essential tool for business analysts and decision-makers.
 
 ## 🔗 Features  
-- Survey Demographics – Breakdown of survey participants by country.
-- Salary Insights – Average salaries by job title.
-- Job Satisfaction – Work-life balance and salary happiness ratings.
-- Programming Languages – Most popular languages among data professionals.
-- Career Entry Difficulty – Analysis of how easy or difficult it is to enter the data field.
+- Sales Overview – Track sales, profit, and quantity across products and regions.  
+- Profitability Insights – Analyze margins, discounts, and contributions by category.  
+- Regional Performance – Geographic breakdown of business metrics.  
+- Interactive Filters – Dynamic slicers for year, segment, and product.  
+- Custom Design – Enhanced visual appeal with icon-based UI elements.
 
-![screenshot](https://github.com/sumanthsadala/Data-Professional-Insights-Dashboard/blob/efd3f08153e74434d92682160b5d59b693c62cd8/Data%20Professional%20Insights%20Dashboard.png)
+![screenshot](https://github.com/sumanthsadala/Awesome-Chocolates-Sales-Performance-Dashboard/blob/acc8ee2cfa69e31f65eff9c7a19bf21eca79b4c7/AC%20Dashboard.png)
 
 
 ## 🛠️ Tools & Technologies  
-- **Power BI** (for visualization)  
-- **Microsoft Excel** (for data storage) 
+- Power BI – Data modeling, visualization, and DAX calculations  
+- Microsoft Excel – Source of sample business data  
+- Custom Icons – For enhanced user interface (provided in ZIP format)
 
 ## 📂 Project Files  
-- `Data Professional Insights Dashboard.pbix` - The Power BI project file  
-- `Data Professional Insights Dashboard.png` - Snapshot of the Data Professional Insights Dahsboard
-- `Data Professional Insights Dashboard.xlsx` - The Excel file containing the dataset for creating the Dashboard.
+- `AC Dashboard.pbix` - The main Power BI file with all visualizations. 
+- `ac-sample-data.xlsx` - Excel dataset used to build the model.
+- AC Dashboard.png - Snapshot of the Ac Dashboard
+- `icons.zip` - Collection of icons used in the dashboard for UI customization.
 
 ## How to Use
-1. Download and open Project.pbix in Power BI Desktop.
-2. Interact with filters to explore insights across different job roles, countries, and difficulty levels.
-3. Use the visualizations to understand industry trends and career prospects.
+1. Download or clone this repository.  
+2. Open `AC Dashboard.pbix` using Power BI Desktop.  
+3. Ensure the data source path is correctly mapped to `ac-sample-data.xlsx`.  
+4. Unzip `icons.zip` and ensure icons are accessible if using image URLs in visuals.  
+5. Explore the dashboard using filters and slicers to reveal insights.
 
-Feel free to modify it further as needed!
+## 📬 Feedback  
+
+Feel free to connect or open an issue if you have suggestions or feedback.
